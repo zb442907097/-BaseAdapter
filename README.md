@@ -1,1 +1,1 @@
-# -BaseAdapter
+# -BaseAdapter可复用的
